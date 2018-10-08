@@ -1,0 +1,14 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Calvin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
